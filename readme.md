@@ -50,3 +50,18 @@ Byte code is not machine code
 - cpython, jython, IronPython, Stackless, PyPy and there are many different implementations of python
 - cpython is an standard implementation of python.
 ```
+
+### Python in shell
+With windows installation python provide an interpreter that is known `IDLE`. 
+We can use python shell to interact with the interpreter and here we can test our program logic, functions and use as a simple calculator for basic calcultation
+
+### How to use python shell
+
+In Windows
+``` bash 
+python
+```
+In Mac/Linux
+``` bash
+python3
+```
