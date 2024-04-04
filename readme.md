@@ -65,3 +65,10 @@ In Mac/Linux
 ``` bash
 python3
 ```
+
+### Mutable and Immutable
+- Mutable means that you can change the values of the data stored inside the variables.
+- List, Set, Dictionary, ByteArray, and Array are mutable data types.
+- Immutable means that you can never change the values of the data stored inside the variables.
+- Integer, FloatingPoint numbers, Booleans, Strings, Tuples, Frozenset and Bytes are immutable data types.
+
