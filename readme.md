@@ -72,3 +72,45 @@ python3
 - Immutable means that you can never change the values of the data stored inside the variables.
 - Integer, FloatingPoint numbers, Booleans, Strings, Tuples, Frozenset and Bytes are immutable data types.
 
+### Datatypes
+Also known as Object types in python as everything is an object in Python.
+
+1- `Numbers`:
+```
+1234, 3.1459, 3+4j, 0b111, Decimal(), Fraction()
+```
+2- `String` : 
+```
+'spam', "Bobs's" b'a\x01c', u'sp\xc4m'
+```
+3- `List` : 
+```
+[1, [2, 'three], 4.5], list(range(10))
+```
+4- `Tuple` : 
+```
+(1, 'spam', 4, 'U'), tuple('spam'), namedTuple
+```
+5- `Dictionary` : 
+```
+{'food;: 'spam', 'taste': 'yum'}, dict(hours=10)
+```
+6- `Set` : 
+```
+set('abc'), {'a','b','c'}
+```
+7- `File` :
+```
+open('eggs.txt'), open(r'C:\ham.bin', 'wb')
+```
+8- `Boolean` : 
+```
+True, False
+```
+9- `None`: 
+```
+None
+```
+10- `functions, modules, classes`
+
+11- `Advanced: Decorators, Generators, Iterators, Meta Programming`
