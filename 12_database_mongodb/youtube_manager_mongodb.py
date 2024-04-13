@@ -3,7 +3,7 @@ from bson import ObjectId # type: ignore
 
 
 client = MongoClient(
-    "mongodb+srv://<mongodb username>:<password>@cluster0.p4rjp7y.mongodb.net/",
+    "mongodb+srv://<mongodb-username>:<password>@cluster0.p4rjp7y.mongodb.net/",
     tlsAllowInvalidCertificates=True,
 )
 # Not a good idea to have username and password of database in code files
